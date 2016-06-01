@@ -1,0 +1,123 @@
+Export time: 2016/05/29 21:18:33 EEST
+Export duration: 214.86s
+
+Export settings:
+	Export Geometry: Models with Shape Fallback
+	Output Path: /Users/MrPaksoy/CityEngine/north_campus/models
+	Simplify Terrain Meshes: true
+	Terrain Layers: Export all selected terrain layers
+	applicationName: CityEngine
+	applicationString: CityEngine 2015.2.2106 0928R
+	applicationVendor: Esri R&D Center Zurich Inc.
+	applicationVersion: 2015.2.2106 09282218
+	atlasAddWrapBorder: true
+	author: MrPaksoy
+	baseName: north_campus
+	collectTextures: true
+	createShapeGroups: false
+	createTextureAtlases: false
+	embedTextures: true
+	encoderID: com.esri.prt.codecs.FBXEncoder
+	encoderName: Autodesk FBX
+	errorFallback: true
+	existingFiles: OVERWRITE
+	facesWithHoles: TRIANGULATE_FACES_WITH_HOLES
+	fileGranularity: MEMORY_BUDGET
+	fileType: BINARY
+	globalOffset: [ -671711.1814346313, -15.475390434265137, 4550417.847488403 ]
+	includeMaterials: true
+	localOffset: NONE
+	maxAtlasDim: 11
+	memoryBudget: 500
+	mergeNormals: true
+	mergeTexcoords: true
+	mergeVertices: true
+	meshGranularity: INSTANCED
+	normalPrecision: 0.001
+	normalsIndexing: INDEXED
+	outputPath: 
+	sceneFile: /north_campus/scenes/north_campus.cej
+	script: 
+	shapeNameDelimiter: _
+	tempPath: /var/folders/zz/qygj5t1943962htpx74wz21c0000gn/T
+	texcoordPrecision: 1.0E-4
+	textureCoordinates: ALL
+	triangulateMeshes: false
+	vertexNormals: PASS
+	vertexPrecision: 0.001
+	writeLog: true
+
+Initial shapes:
+	 0 :   OK                'kosgeb'                                         OID '55bfed09-3ae9-11b2-9c8b-006077dca45a'
+	 1 :   OK                'YADYOK'                                         OID 'a034931f-3af1-11b2-9c8b-006077dca45a'
+	 2 :   OK                'Basket Sahası'                                  OID 'a08e5e88-3af1-11b2-9c8b-006077dca45a'
+	 3 :   OK                'Çim'                                            OID 'a0e541e6-3af1-11b2-9c8b-006077dca45a'
+	 4 :   OK                'Kuzey Park'                                     OID 'a15e20fe-3af1-11b2-9c8b-006077dca45a'
+	 5 :   OK                'New Hall'                                       OID 'a1d46cf1-3af1-11b2-9c8b-006077dca45a'
+	 6 :   OK                '1 ve 2. Kuzey Yurtlari'                         OID 'a2711857-3af1-11b2-9c8b-006077dca45a'
+	 7 :   OK                'Bilgisayar Mühendisliği'                        OID 'a2dda667-3af1-11b2-9c8b-006077dca45a'
+	 8 :   OK                '3. Kuzey Yurdu'                                 OID 'a34dac5c-3af1-11b2-9c8b-006077dca45a'
+	 9 :   OK                'Eğitim Fakültesi'                               OID 'a3ae850a-3af1-11b2-9c8b-006077dca45a'
+	10 :   OK                'Boğaziçi Üniversitesi Kuzey Kampüs'             OID 'a3fae210-3af1-11b2-9c8b-006077dca45a'
+	11 :   OK                'ETA'                                            OID 'a45372a4-3af1-11b2-9c8b-006077dca45a'
+	12 :   OK                'yapı işleri'                                    OID 'a4af15b5-3af1-11b2-9c8b-006077dca45a'
+	13 :   OK                'Aptullah Kuran Kütüphanesi'                     OID 'a507808e-3af1-11b2-9c8b-006077dca45a'
+	14 :   OK                'Kare Blok'                                      OID 'a5bf01a5-3af1-11b2-9c8b-006077dca45a'
+	15 :   OK                'Piramit'                                        OID 'a609e8e1-3af1-11b2-9c8b-006077dca45a'
+	16 :   OK                'Yüksek Akım Laboratuvarı'                       OID 'a664e93a-3af1-11b2-9c8b-006077dca45a'
+
+
+
+Files created:
+	'north_campus_0.fbx':
+		Initial shapes:
+			0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 
+		GEOMETRY:
+			Total Meshes: 20
+			Total Polygons: 2947
+			   | Name                       | Instance Occurrences | Material                      | Polygons 
+			===+============================+======================+===============================+==========
+			 1  'mesh_CityEngineMaterial'                        1  'CityEngineMaterial_2_mat(1),'          4 
+			 2  'mesh_CityEngineMaterial_1'                      1  'CityEngineMaterial_15_mat(1),'         4 
+			 3  'mesh_CityEngineMaterial_2'                      1  'CityEngineMaterial_mat(1),'          555 
+			 4  'mesh_CityEngineMaterial_3'                      1  'CityEngineMaterial_11_mat(1),'         8 
+			 5  'mesh_CityEngineMaterial_4'                      1  'CityEngineMaterial_6_mat(1),'          6 
+			 6  'mesh_CityEngineMaterial_5'                      1  'CityEngineMaterial_19_mat(1),'         4 
+			 7  'mesh_CityEngineMaterial_6'                      1  'CityEngineMaterial_7_mat(1),'          8 
+			 8  'mesh_CityEngineMaterial_7'                      1  'CityEngineMaterial_10_mat(1),'         4 
+			 9  'mesh_CityEngineMaterial_8'                      1  'CityEngineMaterial_17_mat(1),'        15 
+			10  'mesh_CityEngineMaterial_9'                      1  'CityEngineMaterial_4_mat(1),'          1 
+			11  'mesh_CityEngineMaterial_10'                     1  'CityEngineMaterial_12_mat(1),'         4 
+			12  'mesh_CityEngineMaterial_11'                     1  'CityEngineMaterial_14_mat(1),'         4 
+			13  'mesh_CityEngineMaterial_12'                     1  'CityEngineMaterial_9_mat(1),'         10 
+			14  'mesh_CityEngineMaterial_13'                     1  'CityEngineMaterial_18_mat(1),'         5 
+			15  'mesh_CityEngineMaterial_14'                     1  'CityEngineMaterial_8_mat(1),'          4 
+			16  'mesh_CityEngineMaterial_15'                     1  'CityEngineMaterial_16_mat(1),'         4 
+			17  'mesh_CityEngineMaterial_16'                     1  'CityEngineMaterial_3_mat(1),'         58 
+			18  'mesh_CityEngineMaterial_17'                     1  'CityEngineMaterial_13_mat(1),'         1 
+			19  'mesh_CityEngineMaterial_18'                     1  'CityEngineMaterial_1_mat(1),'       2247 
+			20  'mesh_CityEngineMaterial_19'                     1  'CityEngineMaterial_5_mat(1),'          1 
+		MATERIAL:
+			Total Materials: 20
+			   | Name                      | Texture_0    | Texture_1    
+			===+===========================+==============+==============
+			 1  'CityEngineMaterial_2_mat'  'ydyk.tif'     ''            
+			 2  'CityEngineMaterial_15_mat' 'yapi.tif'     ''            
+			 3  'CityEngineMaterial_mat'    'wall.tif'     ''            
+			 4  'CityEngineMaterial_11_mat' 'kuzey3.tif'   ''            
+			 5  'CityEngineMaterial_6_mat'  'kpark.tif'    ''            
+			 6  'CityEngineMaterial_19_mat' 'akim.tif'     ''            
+			 7  'CityEngineMaterial_7_mat'  'newHall.tif'  ''            
+			 8  'CityEngineMaterial_10_mat' 'cmpe.tif'     'cmpe.tif'    
+			 9  'CityEngineMaterial_17_mat' 'kareblok.tif' 'kareblok.tif'
+			10  'CityEngineMaterial_4_mat'  'basket.tif'   ''            
+			11  'CityEngineMaterial_12_mat' 'ef.tif'       ''            
+			12  'CityEngineMaterial_14_mat' 'eta.tif'      'eta.tif'     
+			13  'CityEngineMaterial_9_mat'  'kuzey1.tif'   ''            
+			14  'CityEngineMaterial_18_mat' 'piramid.tif'  'piramid.tif' 
+			15  'CityEngineMaterial_8_mat'  'gri.tif'      ''            
+			16  'CityEngineMaterial_16_mat' 'library2.tif' 'library2.tif'
+			17  'CityEngineMaterial_3_mat'  'roof.tif'     ''            
+			18  'CityEngineMaterial_13_mat' 'kaldirim.tif' ''            
+			19  'CityEngineMaterial_1_mat'  ''             ''            
+			20  'CityEngineMaterial_5_mat'  'cim.tif'      ''            

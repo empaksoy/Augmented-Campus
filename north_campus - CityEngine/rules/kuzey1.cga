@@ -1,0 +1,38 @@
+/**
+ * File:    kuzey1.cga
+ * Created: 28 May 2016 18:01:12 GMT
+ * Author:  Mr. Paksoy
+ */
+
+version "2010.3"
+
+attr shapeType = ""
+attr height = rand(15,25)
+
+
+attr tilewidth = 3
+@StartRule
+Lot -->
+	case shapeType == "LotInner" :
+		Lot.
+	else :
+		extrude(height) comp(f) { side :  Facade | top:  Roof }
+
+Facade -->
+	setupProjection(0, scope.xy, scope.sx, scope.sy)
+	
+	texture("kuzey1.tif")
+	projectUV(0)	
+
+
+Roof --> roofHip(15) 
+setupProjection(0, scope.xz, 1, 1.5)
+projectUV(0)
+texture("roof.tif") 	
+Shape
+		
+attr floorheight = 4.0
+
+
+
+	

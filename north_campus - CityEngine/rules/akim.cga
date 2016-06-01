@@ -1,0 +1,39 @@
+/**
+ * File:    akim.cga
+ * Created: 28 May 2016 18:45:58 GMT
+ * Author:  Mr. Paksoy
+ */
+
+version "2010.3"
+
+attr shapeType = ""
+attr height = rand(15,25)
+Lot -->
+	case shapeType == "LotInner" :
+		Lot.
+	else :
+		extrude(height) comp(f) { side :  Facade | top:  Roof }
+
+actualFloorHeight =  
+	case scope.sy >= 1 : scope.sy/rint(scope.sy/floorheight)
+	else : scope.sy
+	
+actualTileWidth = 
+	case scope.sx >= 2 : scope.sx/rint(scope.sx/4)
+	else : scope.sx
+
+
+Facade -->
+	setupProjection(0, scope.xy, scope.sx, scope.sy)
+	
+	texture("akim.tif")
+	projectUV(0)	
+
+
+Roof --> roofHip(0) 
+setupProjection(0, scope.xz, 1, 1.5)
+projectUV(0)
+texture("gri.tif") 	
+Shape
+
+attr floorheight = 4.0

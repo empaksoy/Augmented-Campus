@@ -1,0 +1,43 @@
+/**
+ * Created: 6 May 2010 11:42:36 GMT
+ * Author:  Esri R&D Center Zurich
+ */
+
+version "2010.3"
+
+attr shapeType = ""
+attr height = rand(15,25)
+
+
+attr tilewidth = 3
+@StartRule
+Lot -->
+	case shapeType == "LotInner" :
+		Lot.
+	else :
+		extrude(height) comp(f) { side :  Facade | top:  Roof }
+
+actualFloorHeight =  
+	case scope.sy >= 1 : scope.sy/rint(scope.sy/floorheight)
+	else : scope.sy
+	
+actualTileWidth = 
+	case scope.sx >= 2 : scope.sx/rint(scope.sx/4)
+	else : scope.sx
+
+Facade -->
+	setupProjection(0, scope.xy, scope.sx, scope.sy)
+	
+	texture("cmpe.tif")
+	projectUV(0)	
+
+Roof --> roofHip(15) 
+setupProjection(0, scope.xz, 1, 1.5)
+projectUV(0)
+texture("roof.tif") 	
+Shape
+
+attr floorheight = 4.0
+
+
+	

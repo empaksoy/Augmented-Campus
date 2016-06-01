@@ -1,0 +1,13 @@
+/**
+ * File:    surface.cga
+ * Created: 28 May 2016 12:04:01 GMT
+ * Author:  Mr. Paksoy
+ */
+
+version "2015.2"
+attr tileWidth = 3
+Facade --> 
+	setupProjection(0, scope.xz, tileWidth, tileWidth)
+	
+		projectUV(0)
+	texture("kaldirim.tif")

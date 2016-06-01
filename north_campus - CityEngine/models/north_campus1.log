@@ -1,0 +1,344 @@
+Export time: 2016/05/31 16:02:58 EEST
+Export duration: 8.719s
+
+Export settings:
+	Export Geometry: Models with Shape Fallback
+	Output Path: /Users/MrPaksoy/CityEngine/north_campus/models
+	Simplify Terrain Meshes: true
+	Terrain Layers: Export all selected terrain layers
+	applicationName: CityEngine
+	applicationString: CityEngine 2015.2.2106 0928R
+	applicationVendor: Esri R&D Center Zurich Inc.
+	applicationVersion: 2015.2.2106 09282218
+	atlasAddWrapBorder: true
+	author: MrPaksoy
+	baseName: north_campus1
+	collectTextures: true
+	createShapeGroups: false
+	createTextureAtlases: false
+	embedTextures: true
+	encoderID: com.esri.prt.codecs.FBXEncoder
+	encoderName: Autodesk FBX
+	errorFallback: true
+	existingFiles: OVERWRITE
+	facesWithHoles: TRIANGULATE_FACES_WITH_HOLES
+	fileGranularity: MEMORY_BUDGET
+	fileType: BINARY
+	globalOffset: [ -671711.1814346313, -15.475390434265137, 4550417.847488403 ]
+	includeMaterials: true
+	localOffset: NONE
+	maxAtlasDim: 11
+	memoryBudget: 500
+	mergeNormals: true
+	mergeTexcoords: true
+	mergeVertices: true
+	meshGranularity: INSTANCED
+	normalPrecision: 0.001
+	normalsIndexing: INDEXED
+	outputPath: 
+	sceneFile: /north_campus/scenes/north_campus.cej
+	script: 
+	shapeNameDelimiter: _
+	tempPath: /var/folders/zz/qygj5t1943962htpx74wz21c0000gn/T
+	texcoordPrecision: 1.0E-4
+	textureCoordinates: ALL
+	triangulateMeshes: false
+	vertexNormals: PASS
+	vertexPrecision: 0.001
+	writeLog: true
+
+Initial shapes:
+	  0 :   OK                'Boğaziçi Üniversitesi Kuzey Kampüs'             OID 'f1defda4-215b-11b2-a0f4-006077dca45a'
+	  1 :   OK                'YADYOK'                                         OID 'a034931f-3af1-11b2-9c8b-006077dca45a'
+	  2 :   OK                'Basket Sahası'                                  OID 'a08e5e88-3af1-11b2-9c8b-006077dca45a'
+	  3 :   OK                'Çim'                                            OID 'a0e541e6-3af1-11b2-9c8b-006077dca45a'
+	  4 :   OK                'Kuzey Park'                                     OID 'a15e20fe-3af1-11b2-9c8b-006077dca45a'
+	  5 :   OK                'New Hall'                                       OID 'a1d46cf1-3af1-11b2-9c8b-006077dca45a'
+	  6 :   OK                '1 ve 2. Kuzey Yurtlari'                         OID 'a2711857-3af1-11b2-9c8b-006077dca45a'
+	  7 :   OK                'Bilgisayar Mühendisliği'                        OID 'a2dda667-3af1-11b2-9c8b-006077dca45a'
+	  8 :   OK                '3. Kuzey Yurdu'                                 OID 'a34dac5c-3af1-11b2-9c8b-006077dca45a'
+	  9 :   OK                'Eğitim Fakültesi'                               OID 'a3ae850a-3af1-11b2-9c8b-006077dca45a'
+	 10 :   OK                'Boğaziçi Üniversitesi Kuzey Kampüs'             OID 'a3fae210-3af1-11b2-9c8b-006077dca45a'
+	 11 :   OK                'ETA'                                            OID 'a45372a4-3af1-11b2-9c8b-006077dca45a'
+	 12 :   OK                'yapı işleri'                                    OID 'a4af15b5-3af1-11b2-9c8b-006077dca45a'
+	 13 :   OK                'Aptullah Kuran Kütüphanesi'                     OID 'a507808e-3af1-11b2-9c8b-006077dca45a'
+	 14 :   OK                'Kare Blok'                                      OID 'a5bf01a5-3af1-11b2-9c8b-006077dca45a'
+	 15 :   OK                'Piramit'                                        OID 'a609e8e1-3af1-11b2-9c8b-006077dca45a'
+	 16 :   OK                'Yüksek Akım Laboratuvarı'                       OID 'a664e93a-3af1-11b2-9c8b-006077dca45a'
+	 17 :   OK                'Shape'                                          OID '4633eb14-3b54-11b2-962f-006077dca45a:0'
+	 18 :   OK                'Shape'                                          OID '4633eb14-3b54-11b2-962f-006077dca45a:1'
+	 19 :   OK                'Shape'                                          OID '46366b5a-3b54-11b2-962f-006077dca45a:0'
+	 20 :   OK                'Shape'                                          OID '4638188f-3b54-11b2-962f-006077dca45a:0'
+	 21 :   OK                'Shape'                                          OID '463a9c5f-3b54-11b2-962f-006077dca45a:0'
+	 22 :   OK                'Shape'                                          OID '463baf1c-3b54-11b2-962f-006077dca45a:0'
+	 23 :   OK                'Shape'                                          OID '463d1208-3b54-11b2-962f-006077dca45a:0'
+	 24 :   OK                'Shape'                                          OID '463e787d-3b54-11b2-962f-006077dca45a:0'
+	 25 :   OK                'Shape'                                          OID '463ecfbf-3b54-11b2-962f-006077dca45a:0'
+	 26 :   OK                'Shape'                                          OID '463fcf9f-3b54-11b2-962f-006077dca45a:0'
+	 27 :   OK                'Shape'                                          OID '463fcf9f-3b54-11b2-962f-006077dca45a:1'
+	 28 :   OK                'Shape'                                          OID '46402a6a-3b54-11b2-962f-006077dca45a:0'
+	 29 :   OK                'Shape'                                          OID '4641e10e-3b54-11b2-962f-006077dca45a:0'
+	 30 :   OK                'Shape'                                          OID '4642ce10-3b54-11b2-962f-006077dca45a:0'
+	 31 :   OK                'Shape'                                          OID '46432fee-3b54-11b2-962f-006077dca45a:0'
+	 32 :   OK                'Shape'                                          OID '464585c1-3b54-11b2-962f-006077dca45a:0'
+	 33 :   OK                'Shape'                                          OID '464585c1-3b54-11b2-962f-006077dca45a:1'
+	 34 :   OK                'Shape'                                          OID '464766d8-3b54-11b2-962f-006077dca45a:0'
+	 35 :   OK                'Shape'                                          OID '464aef3f-3b54-11b2-962f-006077dca45a:0'
+	 36 :   OK                'Shape'                                          OID '464cb409-3b54-11b2-962f-006077dca45a:0'
+	 37 :   OK                'Shape'                                          OID '464e08cf-3b54-11b2-962f-006077dca45a:0'
+	 38 :   OK                'Shape'                                          OID '464f5ec2-3b54-11b2-962f-006077dca45a:0'
+	 39 :   OK                'Shape'                                          OID '464f5ec2-3b54-11b2-962f-006077dca45a:1'
+	 40 :   OK                'Shape'                                          OID '4651238d-3b54-11b2-962f-006077dca45a:0'
+	 41 :   OK                'Shape'                                          OID '46517f86-3b54-11b2-962f-006077dca45a:0'
+	 42 :   OK                'Shape'                                          OID '4653c860-3b54-11b2-962f-006077dca45a:0'
+	 43 :   OK                'Shape'                                          OID '4655199c-3b54-11b2-962f-006077dca45a:0'
+	 44 :   OK                'Shape'                                          OID '4655199c-3b54-11b2-962f-006077dca45a:1'
+	 45 :   OK                'Shape'                                          OID '465701c7-3b54-11b2-962f-006077dca45a:0'
+	 46 :   OK                'Shape'                                          OID '46575c92-3b54-11b2-962f-006077dca45a:0'
+	 47 :   OK                'Shape'                                          OID '465bd328-3b54-11b2-962f-006077dca45a:0'
+	 48 :   OK                'Shape'                                          OID '465cb7e9-3b54-11b2-962f-006077dca45a:0'
+	 49 :   OK                'Shape'                                          OID '4660b2b0-3b54-11b2-962f-006077dca45a:0'
+	 50 :   OK                'Shape'                                          OID '4662751f-3b54-11b2-962f-006077dca45a:0'
+	 51 :   OK                'Shape'                                          OID '46644810-3b54-11b2-962f-006077dca45a:0'
+	 52 :   OK                'Shape'                                          OID '4664a537-3b54-11b2-962f-006077dca45a:0'
+	 53 :   OK                'Shape'                                          OID '466c66e3-3b54-11b2-962f-006077dca45a:0'
+	 54 :   OK                'Shape'                                          OID '46abd861-3b54-11b2-962f-006077dca45a:0'
+	 55 :   OK                'Shape'                                          OID '46bc6052-3b54-11b2-962f-006077dca45a:0'
+	 56 :   OK                'Shape'                                          OID '46bcbc4b-3b54-11b2-962f-006077dca45a:0'
+	 57 :   OK                'Shape'                                          OID '46bdfbd7-3b54-11b2-962f-006077dca45a:0'
+	 58 :   OK                'Shape'                                          OID '46c086ba-3b54-11b2-962f-006077dca45a:0'
+	 59 :   OK                'Shape'                                          OID '46c0fa48-3b54-11b2-962f-006077dca45a:0'
+	 60 :   OK                'Shape'                                          OID '46c1f7cc-3b54-11b2-962f-006077dca45a:0'
+	 61 :   OK                'Shape'                                          OID '46c1f7cc-3b54-11b2-962f-006077dca45a:1'
+	 62 :   OK                'Shape'                                          OID '46c254f3-3b54-11b2-962f-006077dca45a:0'
+	 63 :   OK                'Shape'                                          OID '4712be66-3b54-11b2-962f-006077dca45a:0'
+	 64 :   OK                'Shape'                                          OID '471465b6-3b54-11b2-962f-006077dca45a:0'
+	 65 :   OK                'Shape'                                          OID '4719dd5a-3b54-11b2-962f-006077dca45a:0'
+	 66 :   OK                'Shape'                                          OID '4719dd5a-3b54-11b2-962f-006077dca45a:1'
+	 67 :   OK                'Shape'                                          OID '471c2c1a-3b54-11b2-962f-006077dca45a:0'
+	 68 :   OK                'Shape'                                          OID '472fed70-3b54-11b2-962f-006077dca45a:0'
+	 69 :   OK                'Shape'                                          OID '472fed70-3b54-11b2-962f-006077dca45a:1'
+	 70 :   OK                'Shape'                                          OID '549f6530-3b54-11b2-962f-006077dca45a:0'
+	 71 :   OK                'Shape'                                          OID '54a4df30-3b54-11b2-962f-006077dca45a:0'
+	 72 :   OK                'Shape'                                          OID '54a9a851-3b54-11b2-962f-006077dca45a:0'
+	 73 :   OK                'Shape'                                          OID '54eff58d-3b54-11b2-962f-006077dca45a:0'
+	 74 :   OK                'Shape'                                          OID '54f7065a-3b54-11b2-962f-006077dca45a:0'
+	 75 :   OK                'Shape'                                          OID '54fc7947-3b54-11b2-962f-006077dca45a:0'
+	 76 :   OK                'Shape'                                          OID '55a73f1f-3b54-11b2-962f-006077dca45a:0'
+	 77 :   OK                'Shape'                                          OID '55df5a3e-3b54-11b2-962f-006077dca45a:0'
+	 78 :   OK                'Shape'                                          OID '571874bb-3b54-11b2-962f-006077dca45a:0'
+	 79 :   OK                'Shape'                                          OID '571d2fb6-3b54-11b2-962f-006077dca45a:0'
+	 80 :   OK                'Shape'                                          OID '573bfca1-3b54-11b2-962f-006077dca45a:0'
+	 81 :   OK                'Shape'                                          OID '574b5911-3b54-11b2-962f-006077dca45a:0'
+	 82 :   OK                'Shape'                                          OID '574ff563-3b54-11b2-962f-006077dca45a:0'
+	 83 :   OK                'Shape'                                          OID '5760b71a-3b54-11b2-962f-006077dca45a:0'
+	 84 :   OK                'Shape'                                          OID '576b32d4-3b54-11b2-962f-006077dca45a:0'
+	 85 :   OK                'Shape'                                          OID '5785b981-3b54-11b2-962f-006077dca45a:0'
+	 86 :   OK                'Shape'                                          OID '57896fe4-3b54-11b2-962f-006077dca45a:0'
+	 87 :   OK                'Shape'                                          OID '579aa2ce-3b54-11b2-962f-006077dca45a:0'
+	 88 :   OK                'Shape'                                          OID '57d1d219-3b54-11b2-962f-006077dca45a:0'
+	 89 :   OK                'Shape'                                          OID '57d5af65-3b54-11b2-962f-006077dca45a:0'
+	 90 :   OK                'Shape'                                          OID '5b1ee1fb-3b54-11b2-962f-006077dca45a:0'
+	 91 :   OK                'Shape'                                          OID '5c85ab32-3b54-11b2-962f-006077dca45a:0'
+	 92 :   OK                'teknopark'                                      OID '60c26266-3b59-11b2-962f-006077dca45a'
+	 93 :   OK                'Shape'                                          OID '60caf010-3b59-11b2-962f-006077dca45a:0'
+	 94 :   OK                'Shape'                                          OID '60cbc1f4-3b59-11b2-962f-006077dca45a:0'
+	 95 :   OK                'Shape'                                          OID '60cc01a0-3b59-11b2-962f-006077dca45a:0'
+	 96 :   OK                'Shape'                                          OID '60dbfd3f-3b59-11b2-962f-006077dca45a:0'
+	 97 :   OK                'Shape'                                          OID '60dccdf4-3b59-11b2-962f-006077dca45a:0'
+	 98 :   OK                'Eğitim Fakültesi'                               OID '6100a992-3b59-11b2-962f-006077dca45a'
+	 99 :   OK                '3. Kuzey Yurdu'                                 OID '6105b844-3b59-11b2-962f-006077dca45a'
+		CGA Warnings:
+			[Method: 'Default$Roof'] roofHip(): Roof2 failed (angle 0.000000 to small).
+			[Method: 'Default$Roof'] roofHip(): roofHip failed.
+	100 :   OK                'Bilgisayar Mühendisliği'                        OID '6109150a-3b59-11b2-962f-006077dca45a'
+	101 :   OK                '1 ve 2. Kuzey Yurtlari'                         OID '610eda81-3b59-11b2-962f-006077dca45a'
+	102 :   OK                'New Hall'                                       OID '6113edeb-3b59-11b2-962f-006077dca45a'
+		CGA Warnings:
+			[Method: 'Default$Roof'] roofHip(): Roof2 failed (angle 0.000000 to small).
+			[Method: 'Default$Roof'] roofHip(): roofHip failed.
+	103 :   OK                'Kuzey Park'                                     OID '612abaab-3b59-11b2-962f-006077dca45a'
+	104 :   OK                'ETA'                                            OID '6131e569-3b59-11b2-962f-006077dca45a'
+	105 :   OK                'Shape'                                          OID '61335d8f-3b59-11b2-962f-006077dca45a:0'
+	106 :   OK                'Shape'                                          OID '61342aba-3b59-11b2-962f-006077dca45a:0'
+	107 :   OK                'Shape'                                          OID '61346b95-3b59-11b2-962f-006077dca45a:0'
+	108 :   OK                'Shape'                                          OID '61353c4a-3b59-11b2-962f-006077dca45a:0'
+	109 :   OK                'Shape'                                          OID '61359bcc-3b59-11b2-962f-006077dca45a:0'
+	110 :   OK                'Shape'                                          OID '6136ad5c-3b59-11b2-962f-006077dca45a:0'
+	111 :   OK                'Shape'                                          OID '6136ad5c-3b59-11b2-962f-006077dca45a:1'
+	112 :   OK                'Shape'                                          OID '6137177b-3b59-11b2-962f-006077dca45a:0'
+	113 :   OK                'Çim'                                            OID '613a8396-3b59-11b2-962f-006077dca45a'
+	114 :   OK                'Shape'                                          OID '613e9396-3b59-11b2-962f-006077dca45a:0'
+	115 :   OK                'Shape'                                          OID '61400a8e-3b59-11b2-962f-006077dca45a:0'
+	116 :   OK                'Shape'                                          OID '6140737f-3b59-11b2-962f-006077dca45a:0'
+	117 :   OK                'Shape'                                          OID '61418057-3b59-11b2-962f-006077dca45a:0'
+	118 :   OK                'Basket Sahası'                                  OID '61458a73-3b59-11b2-962f-006077dca45a'
+	119 :   OK                'YADYOK'                                         OID '614fe9e0-3b59-11b2-962f-006077dca45a'
+	120 :   OK                'Shape'                                          OID '615f5f13-3b59-11b2-962f-006077dca45a:0'
+	121 :   OK                'Shape'                                          OID '6163e4fd-3b59-11b2-962f-006077dca45a:0'
+	122 :   OK                'Shape'                                          OID '6165cd28-3b59-11b2-962f-006077dca45a:0'
+	123 :   OK                'Shape'                                          OID '6166c97e-3b59-11b2-962f-006077dca45a:0'
+	124 :   OK                'Shape'                                          OID '6168452d-3b59-11b2-962f-006077dca45a:0'
+	125 :   OK                'Shape'                                          OID '6169bfae-3b59-11b2-962f-006077dca45a:0'
+	126 :   OK                'Shape'                                          OID '6169bfae-3b59-11b2-962f-006077dca45a:1'
+	127 :   OK                'Shape'                                          OID '616bbe3f-3b59-11b2-962f-006077dca45a:0'
+	128 :   OK                'Shape'                                          OID '616cba95-3b59-11b2-962f-006077dca45a:0'
+	129 :   OK                'Shape'                                          OID '616fac0e-3b59-11b2-962f-006077dca45a:0'
+	130 :   OK                'Shape'                                          OID '616fac0e-3b59-11b2-962f-006077dca45a:1'
+	131 :   OK                'Shape'                                          OID '617190ae-3b59-11b2-962f-006077dca45a:0'
+	132 :   OK                'Shape'                                          OID '61728aa9-3b59-11b2-962f-006077dca45a:0'
+	133 :   OK                'Shape'                                          OID '61728aa9-3b59-11b2-962f-006077dca45a:1'
+	134 :   OK                'Shape'                                          OID '61775e66-3b59-11b2-962f-006077dca45a:0'
+	135 :   OK                'Yüksek Akım Laboratuvarı'                       OID '6193249f-3b59-11b2-962f-006077dca45a'
+		CGA Warnings:
+			[Method: 'Default$Roof'] roofHip(): Roof2 failed (angle 0.000000 to small).
+			[Method: 'Default$Roof'] roofHip(): roofHip failed.
+	136 :   OK                'Shape'                                          OID '6197731e-3b59-11b2-962f-006077dca45a:0'
+	137 :   OK                'Shape'                                          OID '6197731e-3b59-11b2-962f-006077dca45a:1'
+	138 :   OK                'Shape'                                          OID '619cd589-3b59-11b2-962f-006077dca45a:0'
+	139 :   OK                'Shape'                                          OID '619d4204-3b59-11b2-962f-006077dca45a:0'
+	140 :   OK                'Boğaziçi Üniversitesi Kuzey Kampüs'             OID '61e17334-3b59-11b2-962f-006077dca45a'
+	141 :   OK                'Shape'                                          OID '61ebf72f-3b59-11b2-962f-006077dca45a:0'
+	142 :   OK                'Shape'                                          OID '61ee87f7-3b59-11b2-962f-006077dca45a:0'
+	143 :   OK                'Shape'                                          OID '61ee87f7-3b59-11b2-962f-006077dca45a:1'
+	144 :   OK                'Piramit'                                        OID '6205f89e-3b59-11b2-962f-006077dca45a'
+	145 :   OK                'Kare Blok'                                      OID '620e010a-3b59-11b2-962f-006077dca45a'
+	146 :   OK                'Shape'                                          OID '6211edab-3b59-11b2-962f-006077dca45a:0'
+	147 :   OK                'Shape'                                          OID '6211edab-3b59-11b2-962f-006077dca45a:1'
+	148 :   OK                'Shape'                                          OID '62122fb3-3b59-11b2-962f-006077dca45a:0'
+	149 :   OK                'Shape'                                          OID '62126f5f-3b59-11b2-962f-006077dca45a:0'
+	150 :   OK                'Shape'                                          OID '621336a6-3b59-11b2-962f-006077dca45a:0'
+	151 :   OK                'Shape'                                          OID '6213f0f3-3b59-11b2-962f-006077dca45a:0'
+	152 :   OK                'Shape'                                          OID '6214b83a-3b59-11b2-962f-006077dca45a:0'
+	153 :   OK                'Shape'                                          OID '6214b83a-3b59-11b2-962f-006077dca45a:1'
+	154 :   OK                'Shape'                                          OID '6214f6b8-3b59-11b2-962f-006077dca45a:0'
+	155 :   OK                'Shape'                                          OID '62159f56-3b59-11b2-962f-006077dca45a:0'
+	156 :   OK                'Aptullah Kuran Kütüphanesi'                     OID '6219dd54-3b59-11b2-962f-006077dca45a'
+		CGA Warnings:
+			[Method: 'Default$Roof'] roofHip(): Roof2 failed (angle 0.000000 to small).
+			[Method: 'Default$Roof'] roofHip(): roofHip failed.
+	157 :   OK                'yapı işleri'                                    OID '621cc68b-3b59-11b2-962f-006077dca45a'
+	158 :   OK                'Shape'                                          OID '621d891a-3b59-11b2-962f-006077dca45a:0'
+	159 :   OK                'Shape'                                          OID '621f6c8d-3b59-11b2-962f-006077dca45a:0'
+	160 :   OK                'Shape'                                          OID '622074ae-3b59-11b2-962f-006077dca45a:0'
+	161 :   OK                'Shape'                                          OID '622074ae-3b59-11b2-962f-006077dca45a:1'
+	162 :   OK                'Shape'                                          OID '62245456-3b59-11b2-962f-006077dca45a:0'
+	163 :   OK                'Shape'                                          OID '700c493f-3b59-11b2-962f-006077dca45a:0'
+	164 :   OK                'Shape'                                          OID '700f9455-3b59-11b2-962f-006077dca45a:0'
+	165 :   OK                'Shape'                                          OID '709a9a5b-3b59-11b2-962f-006077dca45a:0'
+	166 :   OK                'Shape'                                          OID '709dc33f-3b59-11b2-962f-006077dca45a:0'
+	167 :   OK                'Shape'                                          OID '712358b4-3b59-11b2-962f-006077dca45a:0'
+	168 :   OK                'Shape'                                          OID '71266d8c-3b59-11b2-962f-006077dca45a:0'
+	169 :   OK                'Shape'                                          OID '712cab49-3b59-11b2-962f-006077dca45a:0'
+	170 :   OK                'Shape'                                          OID '71309efd-3b59-11b2-962f-006077dca45a:0'
+	171 :   OK                'Shape'                                          OID '713372fb-3b59-11b2-962f-006077dca45a:0'
+	172 :   OK                'Shape'                                          OID '71650acc-3b59-11b2-962f-006077dca45a:0'
+	173 :   OK                'Shape'                                          OID '717b9ef2-3b59-11b2-962f-006077dca45a:0'
+	174 :   OK                'Shape'                                          OID '71b17977-3b59-11b2-962f-006077dca45a:0'
+	175 :   OK                'Shape'                                          OID '71c03914-3b59-11b2-962f-006077dca45a:0'
+	176 :   OK                'Shape'                                          OID '71c32379-3b59-11b2-962f-006077dca45a:0'
+	177 :   OK                'Shape'                                          OID '71c5f51c-3b59-11b2-962f-006077dca45a:0'
+	178 :   OK                'Shape'                                          OID '7202fa5f-3b59-11b2-962f-006077dca45a:0'
+	179 :   OK                'Shape'                                          OID '720bc0a3-3b59-11b2-962f-006077dca45a:0'
+	180 :   OK                'Shape'                                          OID '720e8b32-3b59-11b2-962f-006077dca45a:0'
+	181 :   OK                'Shape'                                          OID '754842af-3b59-11b2-962f-006077dca45a:0'
+	182 :   OK                'Shape'                                          OID '769863b4-3b59-11b2-962f-006077dca45a:0'
+	183 :   OK                'teknopark'                                      OID 'a435c600-c493-1605-b6bb-0031c1ca2358'
+
+Assets with errors/warnings/infos:
+	<initial shape geometry>:
+		Warning: ; Geometry '' contained (0/0/1) unreferenced vertices/vertex normals/texture coordinates, they were removed.
+		Warning: ; Geometry '' contained (0/0/2) unreferenced vertices/vertex normals/texture coordinates, they were removed.
+		Warning: Geometry ' (mesh: Shape)' contained: 1 0-length edges (removed); ; Geometry '' contained (1/0/3) unreferenced vertices/vertex normals/texture coordinates, they were removed.
+		Warning: Geometry ' (mesh: Shape)' contained: 1 0-length edges (removed); ; Geometry '' contained (0/0/3) unreferenced vertices/vertex normals/texture coordinates, they were removed.
+
+
+Files created:
+	'north_campus1_0.fbx':
+		Initial shapes:
+			0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 16, 19, 18, 21, 20, 23, 22, 25, 24, 27, 26, 29, 28, 31, 30, 34, 35, 32, 33, 38, 39, 36, 37, 42, 43, 40, 41, 46, 47, 44, 45, 51, 50, 49, 48, 55, 54, 53, 52, 59, 58, 57, 56, 63, 62, 61, 60, 68, 69, 70, 71, 64, 65, 66, 67, 76, 77, 78, 79, 72, 73, 74, 75, 85, 84, 87, 86, 81, 80, 83, 82, 93, 92, 95, 94, 89, 88, 91, 90, 102, 103, 100, 101, 98, 99, 96, 97, 110, 111, 108, 109, 106, 107, 104, 105, 119, 118, 117, 116, 115, 114, 113, 112, 127, 126, 125, 124, 123, 122, 121, 120, 137, 136, 139, 138, 141, 140, 143, 142, 129, 128, 131, 130, 133, 132, 135, 134, 152, 153, 154, 155, 156, 157, 158, 159, 144, 145, 146, 147, 148, 149, 150, 151, 171, 170, 169, 168, 175, 174, 173, 172, 163, 162, 161, 160, 167, 166, 165, 164, 178, 179, 176, 177, 182, 183, 180, 181, 
+		GEOMETRY:
+			Total Meshes: 38
+			Total Polygons: 1231
+			   | Name                            | Instance Occurrences | Material                           | Polygons 
+			===+=================================+======================+====================================+==========
+			 1  'mesh_CityEngineMaterial'                             1  'CityEngineMaterial_11_mat(1),'              1 
+			 2  'mesh_CityEngineShapeMaterial'                        1  'CityEngineShapeMaterial_2_mat(1),'          1 
+			 3  'mesh_CityEngineMaterial_1'                           1  'CityEngineMaterial_12_mat(1),'              1 
+			 4  'mesh_CityEngineMaterial_2'                           1  'CityEngineMaterial_3_mat(1),'               4 
+			 5  'mesh_CityEngineMaterial_3'                           1  'CityEngineMaterial_14_mat(1),'              4 
+			 6  'mesh_CityEngineMaterial_4'                           1  'CityEngineMaterial_4_mat(1),'               8 
+			 7  'mesh_CityEngineShapeMaterial_1'                      1  'CityEngineShapeMaterial_17_mat(1),'       922 
+			 8  'mesh_CityEngineShapeMaterial_2'                      1  'CityEngineShapeMaterial_18_mat(1),'         4 
+			 9  'mesh_CityEngineMaterial_5'                           1  'CityEngineMaterial_9_mat(1),'               6 
+			10  'mesh_CityEngineMaterial_6'                           1  'CityEngineMaterial_17_mat(1),'              4 
+			11  'mesh_CityEngineMaterial_7'                           1  'CityEngineMaterial_7_mat(1),'              10 
+			12  'mesh_CityEngineMaterial_8'                           1  'CityEngineMaterial_16_mat(1),'             15 
+			13  'mesh_CityEngineShapeMaterial_3'                      1  'CityEngineShapeMaterial_7_mat(1),'         10 
+			14  'mesh_CityEngineMaterial_9'                           1  'CityEngineMaterial_13_mat(1),'              4 
+			15  'mesh_CityEngineMaterial_10'                          1  'CityEngineMaterial_2_mat(1),'              63 
+			16  'mesh_CityEngineMaterial_11'                          1  'CityEngineMaterial_15_mat(1),'              5 
+			17  'mesh_CityEngineShapeMaterial_4'                      1  'CityEngineShapeMaterial_8_mat(1),'          4 
+			18  'mesh_CityEngineMaterial_12'                          1  'CityEngineMaterial_6_mat(1),'               4 
+			19  'mesh_CityEngineShapeMaterial_5'                      1  'CityEngineShapeMaterial_9_mat(1),'          8 
+			20  'mesh_CityEngineMaterial_13'                          1  'CityEngineMaterial_8_mat(1),'               8 
+			21  'mesh_CityEngineShapeMaterial_6'                      1  'CityEngineShapeMaterial_14_mat(1),'        15 
+			22  'mesh_CityEngineShapeMaterial_7'                      1  'CityEngineShapeMaterial_13_mat(1),'         4 
+			23  'mesh_CityEngineShapeMaterial_8'                      1  'CityEngineShapeMaterial_1_mat(1),'         63 
+			24  'mesh_CityEngineShapeMaterial_9'                      1  'CityEngineShapeMaterial_6_mat(1),'          4 
+			25  'mesh_CityEngineMaterial_14'                          1  'CityEngineMaterial_18_mat(1),'              4 
+			26  'mesh_CityEngineMaterial_15'                          1  'CityEngineMaterial_1_mat(1),'               4 
+			27  'mesh_CityEngineShapeMaterial_10'                     1  'CityEngineShapeMaterial_3_mat(1),'          1 
+			28  'mesh_CityEngineShapeMaterial_11'                     1  'CityEngineShapeMaterial_5_mat(1),'          8 
+			29  'mesh_CityEngineShapeMaterial_12'                     1  'CityEngineShapeMaterial_12_mat(1),'         4 
+			30  'mesh_CityEngineMaterial_16'                          1  'CityEngineMaterial_10_mat(1),'              4 
+			31  'mesh_CityEngineMaterial_17'                          1  'CityEngineMaterial_5_mat(1),'               4 
+			32  'mesh_CityEngineShapeMaterial_13'                     1  'CityEngineShapeMaterial_11_mat(1),'         4 
+			33  'mesh_CityEngineShapeMaterial_14'                     1  'CityEngineShapeMaterial_4_mat(1),'          6 
+			34  'mesh_CityEngineShapeMaterial_15'                     1  'CityEngineShapeMaterial_16_mat(1),'         4 
+			35  'mesh_CityEngineShapeMaterial_16'                     1  'CityEngineShapeMaterial_15_mat(1),'         5 
+			36  'mesh_CityEngineMaterial_18'                          1  'CityEngineMaterial_mat(1),'                 3 
+			37  'mesh_CityEngineShapeMaterial_17'                     1  'CityEngineShapeMaterial_10_mat(1),'         4 
+			38  'mesh_CityEngineShapeMaterial_18'                     1  'CityEngineShapeMaterial_mat(1),'            4 
+		MATERIAL:
+			Total Materials: 38
+			   | Name                           | Texture_0     | Texture_1    
+			===+================================+===============+==============
+			 1  'CityEngineMaterial_11_mat'      'cim.tif'       ''            
+			 2  'CityEngineShapeMaterial_2_mat'  'basket.tif'    ''            
+			 3  'CityEngineMaterial_12_mat'      'basket.tif'    ''            
+			 4  'CityEngineMaterial_3_mat'       'ef.tif'        ''            
+			 5  'CityEngineMaterial_14_mat'      'akim.tif'      ''            
+			 6  'CityEngineMaterial_4_mat'       'kuzey3.tif'    ''            
+			 7  'CityEngineShapeMaterial_17_mat' ''              ''            
+			 8  'CityEngineShapeMaterial_18_mat' 'teknopark.tif' ''            
+			 9  'CityEngineMaterial_9_mat'       'kpark.tif'     ''            
+			10  'CityEngineMaterial_17_mat'      'library2.tif'  'library2.tif'
+			11  'CityEngineMaterial_7_mat'       'kuzey1.tif'    ''            
+			12  'CityEngineMaterial_16_mat'      'kareblok.tif'  'kareblok.tif'
+			13  'CityEngineShapeMaterial_7_mat'  'kuzey1.tif'    ''            
+			14  'CityEngineMaterial_13_mat'      'ydyk.tif'      ''            
+			15  'CityEngineMaterial_2_mat'       'roof.tif'      ''            
+			16  'CityEngineMaterial_15_mat'      'piramid.tif'   'piramid.tif' 
+			17  'CityEngineShapeMaterial_8_mat'  'cmpe.tif'      'cmpe.tif'    
+			18  'CityEngineMaterial_6_mat'       'cmpe.tif'      'cmpe.tif'    
+			19  'CityEngineShapeMaterial_9_mat'  'kuzey3.tif'    ''            
+			20  'CityEngineMaterial_8_mat'       'newHall.tif'   ''            
+			21  'CityEngineShapeMaterial_14_mat' 'kareblok.tif'  'kareblok.tif'
+			22  'CityEngineShapeMaterial_13_mat' 'library2.tif'  'library2.tif'
+			23  'CityEngineShapeMaterial_1_mat'  'roof.tif'      ''            
+			24  'CityEngineShapeMaterial_6_mat'  'gri.tif'       ''            
+			25  'CityEngineMaterial_18_mat'      'yapi.tif'      ''            
+			26  'CityEngineMaterial_1_mat'       'teknopark.tif' ''            
+			27  'CityEngineShapeMaterial_3_mat'  'cim.tif'       ''            
+			28  'CityEngineShapeMaterial_5_mat'  'newHall.tif'   ''            
+			29  'CityEngineShapeMaterial_12_mat' 'yapi.tif'      ''            
+			30  'CityEngineMaterial_10_mat'      'eta.tif'       'eta.tif'     
+			31  'CityEngineMaterial_5_mat'       'gri.tif'       ''            
+			32  'CityEngineShapeMaterial_11_mat' 'eta.tif'       'eta.tif'     
+			33  'CityEngineShapeMaterial_4_mat'  'kpark.tif'     ''            
+			34  'CityEngineShapeMaterial_16_mat' 'akim.tif'      ''            
+			35  'CityEngineShapeMaterial_15_mat' 'piramid.tif'   'piramid.tif' 
+			36  'CityEngineMaterial_mat'         'kaldirim.tif'  ''            
+			37  'CityEngineShapeMaterial_10_mat' 'ef.tif'        ''            
+			38  'CityEngineShapeMaterial_mat'    'ydyk.tif'      ''            

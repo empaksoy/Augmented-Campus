@@ -1,0 +1,14 @@
+/**
+ * File:    cim.cga
+ * Created: 28 May 2016 19:56:43 GMT
+ * Author:  Mr. Paksoy
+ */
+
+
+version "2015.2"
+attr tileWidth = 3
+Facade --> 
+	setupProjection(0, scope.xz, tileWidth, tileWidth)
+	
+		projectUV(0)
+	texture("cim.tif")

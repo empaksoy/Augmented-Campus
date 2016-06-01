@@ -1,0 +1,14 @@
+/**
+ * File:    basket.cga
+ * Created: 28 May 2016 20:03:42 GMT
+ * Author:  Mr. Paksoy
+ */
+
+
+version "2015.2"
+attr tileWidth = 3
+Facade --> 
+	setupProjection(0, scope.xz, scope.sx, scope.sz)
+	
+		projectUV(0)
+	texture("basket.tif")
